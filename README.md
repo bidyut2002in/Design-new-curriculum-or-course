@@ -1,7 +1,8 @@
 ## Design a new curriculum for B.Tech. (Biotechnology) Students 
+# Haldia Institute of Technology, Haldia
 
 # Course Title: 
-Introduction to Python Programming for Biotechnology
+Python Programming for Biotechnology
 
 # Course Description:
 This course introduces the fundamentals of Python programming, with a focus on applications in the field of biotechnology. Students will learn the basic concepts of programming, including variables, data types, operators, control flow statements, and functions. They will also gain hands-on experience with various Python libraries and tools commonly used in biotechnology research, such as NumPy, pandas, and Biopython.
