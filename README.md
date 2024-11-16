@@ -1,5 +1,7 @@
-## Design a new curriculum for B.Tech. (Biotechnology) Students 
-# Haldia Institute of Technology, Haldia
+# Designing a course curriculum for B.Tech. in Biotechnology 
+
+# Institute/Organization: 
+Haldia Institute of Technology, West Bengal, Haldia
 
 # Course Title: 
 Python Programming for Biotechnology
