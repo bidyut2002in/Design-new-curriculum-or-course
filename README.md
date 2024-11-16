@@ -1,4 +1,4 @@
-# Designing a course curriculum for B.Tech. in Biotechnology 
+# Designing a Course Curriculum for B.Tech. in Biotechnology 
 
 # Institute/Organization: 
 Haldia Institute of Technology, West Bengal, Haldia
